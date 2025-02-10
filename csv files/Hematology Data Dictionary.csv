@@ -1,0 +1,21 @@
+Test Id,Full Name,Units
+WBC,White Blood Cells,10^3/uL
+NE%,Neutrophils,%
+LY%,Lymphocytes,%
+MO%,Monocytes,%
+EO%,Eosinophils,%
+BA%,Basophis,%
+NE#,Neutrophils,10^3/uL
+LY#,Lymphocytes,10^3/uL
+MO#,Monocytes,10^3/uL
+EO#,Eosinophils,10^3/uL
+BA#,Basophis,10^3/uL
+RBC,Red Blood Cells,10^6/uL
+RDW,Red blood cell distribution width,%
+HCT,Hematocrit,%
+HGB,Hemogloboin,g/dL
+MCV,Mean corpuscular volume,fL
+MCH,Mean corpuscular hemoglobin,picograms
+MCHC,Mean corpuscular hemoglobin concentration,g/dL
+PLT,Platelets,10^3/uL
+MPV,Mean platelet volume,fL
