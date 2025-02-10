@@ -1,0 +1,18 @@
+Test Id,Result,Units
+PHOS,Phosphorus,mg/dL
+K,Potassium,mmol/L
+MG,Magnesium,mmol/L
+ALB,Albumin,g/dL
+ALT,Alanine transaminase,IU/L
+NA,Sodium,mmol/L
+TP,Total Protein,g/dL
+AST,Aspartate transaminase,IU/L
+CL,Chloride,mmol/L
+GLU,Glucose,mg/dL
+CREA,Creatinine,mg/dL
+GGT,Gamma-glutamyltransferase,IU/L
+ALKP,Alkaline Phosphatase,IU/L
+TRIG,Triglycerides,mg/dL
+TBIL,Total Bilirubin,mg/dL
+CHOL,Cholesterol,mg/dL
+BUN,Blood urea nitrogen,mg/dL
