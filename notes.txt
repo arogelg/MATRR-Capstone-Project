@@ -1,0 +1,17 @@
+This monkeys are in the master and monkey datasets but in the master they dont have an open access row: 
+
+10255,
+10352,
+10353,
+10354,
+10355,
+10356,
+10357,
+10358,
+10359
+
+For terms of consistency and simplicity given our short time and in thinking of getting a working product
+for this end of spring we decided to keep the clean data eliminating the 9 monkeys in the master as they have very incosistent
+row values that we will probably come back to check later and ask our client their position on this approach
+
+Another issue we faced is, given the 
